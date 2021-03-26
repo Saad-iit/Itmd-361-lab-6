@@ -2,19 +2,39 @@
 	background-color:blue;
 	overflow:hidden;
 }
-
+#main-navbar ul {
+	
+}
+#main-navbar ul li {
+	
+}
+#main-navbar ul li a {
+	
+}
+#main-navbar ul li a:hover {
+	
+}
 #navbar-container {
-	float:left;
-	width:100%;
-	position:relative;
+	position: relative;
+	width: 100%;
+	float: left;
 }
 #onpage {
 	text-decoration:underline overline;
 }
 #sidebar-container{
-    position: fixed;
+	position: fixed;
     right: 0%;
     background-color: red;
     height: 100%;
     width: 20%;
+}
+#sidebar ul{
+
+}
+#sidebar ul li a{
+
+}
+#sidebar ul li a:hover{
+    
 }
